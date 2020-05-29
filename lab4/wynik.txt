@@ -1,48 +1,49 @@
 Czas dodawania dla 2048 liczb: 
-SISD: 0.000189 
-SIMD: 0.000177 
+SISD: 41 
+SIMD: 42 
 
 Czas dodawania dla 4096 liczb: 
-SISD: 0.000360 
-SIMD: 0.000370 
+SISD: 80 
+SIMD: 85 
 
 Czas dodawania dla 8192 liczb: 
-SISD: 0.000717 
-SIMD: 0.000703 
+SISD: 161 
+SIMD: 204 
 
 Czas odejmowania dla 2048 liczb: 
-SISD: 0.000176 
-SIMD: 0.000174 
+SISD: 40 
+SIMD: 42 
 
 Czas odejmowania dla 4096 liczb: 
-SISD: 0.000363 
-SIMD: 0.000354 
+SISD: 82 
+SIMD: 85 
 
 Czas odejmowania dla 8192 liczb: 
-SISD: 0.000725 
-SIMD: 0.000717 
+SISD: 162 
+SIMD: 170 
 
 Czas mnozenia dla 2048 liczb: 
-SISD: 0.000179 
-SIMD: 0.000175 
+SISD: 40 
+SIMD: 59 
 
 Czas mnozenia dla 4096 liczb: 
-SISD: 0.000387 
-SIMD: 0.000374 
+SISD: 80 
+SIMD: 94 
 
 Czas mnozenia dla 8192 liczb: 
-SISD: 0.000717 
-SIMD: 0.000722 
+SISD: 157 
+SIMD: 186 
 
 Czas dzielenia dla 2048 liczb: 
-SISD: 0.000177 
-SIMD: 0.000174 
+SISD: 41 
+SIMD: 57 
 
 Czas dzielenia dla 4096 liczb: 
-SISD: 0.000356 
-SIMD: 0.000359 
+SISD: 79 
+SIMD: 112 
 
 Czas dzielenia dla 8192 liczb: 
-SISD: 0.000706 
-SIMD: 0.000721 
+SISD: 165 
+SIMD: 224 
 
+CLOCKS_PER_SEC: 1000000

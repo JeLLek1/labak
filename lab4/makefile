@@ -1,4 +1,4 @@
-FLAGS = -m32 -O3			#flagi kompilatora
+FLAGS = -m32				#flagi kompilatora
 
 S_FILES := $(wildcard src/*.s)		#pliki s
 C_FILES := $(wildcard src/*.c)		#pliki c
